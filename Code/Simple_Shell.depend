@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651836726 source:/home/ali/Simple_Shell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<unistd.h>
+	<signal.h>
+	<errno.h>
+

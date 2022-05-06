@@ -1,0 +1,6 @@
+Child process 6039 was started.
+Child process 6301 was started.
+A Child process was terminated.
+A Child process was terminated.
+Child process 6310 was started.
+A Child process was terminated.
